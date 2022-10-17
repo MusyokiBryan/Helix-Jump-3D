@@ -1,4 +1,4 @@
-##HELIX JUMP 3D
+## HELIX JUMP 3D
 Helix Jump is a fun-addicting 3D puzzle game  in which you have to help a ball fall to the bottom of a spiral maze. Jump Helix grabs the classic ball as the theme, jump forward in the rising spiral ladder.
 
 #### Gameplay Demo
